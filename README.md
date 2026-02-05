@@ -44,6 +44,8 @@ The analysis is contained within a Jupyter Notebook (Titanic Survival Analysis.i
 
 1. **Clone the repository:**  
    git clone
+   https://github.com/suman11355/Titanic-Survival-Analysis
+   
    
 
 3. **Install dependencies:**  
